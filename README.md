@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mankali Mahesh</h1>
-<h3 align="center">I’m a Full-Stack Developer and Content Writer, passionate about building scalable web applications and writing meaningful content that inspires and informs.</h3>
+<h3 align="center">I’m a MERN stack developer and Content Writer, passionate about building scalable web applications and writing meaningful content that inspires and informs.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahimahesh318" alt="mahimahesh318" /></a> </p>
 
